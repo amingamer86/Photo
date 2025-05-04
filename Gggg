@@ -53,8 +53,8 @@
     "final": "dns-remote",
     "static_ips": {
       "sky.rethinkdns.com": [
-        "104.17.148.22",
         "104.17.147.22",
+        "104.17.148.22",
         "188.114.97.3",
         "188.114.96.3",
         "2a06:98c1:3121::3",
@@ -126,6 +126,12 @@
         "enabled": true,
         "server_name": "telewebion.com",
         "insecure": true
+      },
+      "subscription_userinfo": {
+        "upload": 0,
+        "download": 0,
+        "total": 10737418240000000,
+        "expire": 2546249531
       }
     },
     {
@@ -212,13 +218,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:16756",
-      "secret": "sn1ljyztIDziv1nt"
-    },
-    "subscription_userinfo": {
-      "upload": 0,
-      "download": 0,
-      "total": 536870912000000,
-      "expire": 2546249531
+      "secret": "lUesmDh6B3HBo1zQ"
     }
   }
 }
