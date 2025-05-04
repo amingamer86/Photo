@@ -127,12 +127,7 @@
         "server_name": "telewebion.com",
         "insecure": true
       },
-      "subscription_userinfo": {
-        "upload": 0,
-        "download": 0,
-        "total": 10737418240000000,
-        "expire": 2546249531
-      }
+      "subscription_userinfo": "upload=0; download=0; total=10737418240000000; expire=2546249531"
     },
     {
       "type": "dns",
